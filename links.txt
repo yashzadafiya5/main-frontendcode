@@ -1,0 +1,29 @@
+for html entities 
+https://www.freeformatter.com/html-entities.html
+
+for random photos 
+https://picsum.photos/
+
+https://www.gettyimages.in/
+
+for images & icons 
+https://www.iconfinder.com
+
+for map (basic)
+https://medium.com/@nargessmi87/how-to-embede-open-street-map-in-a-webpage-like-google-maps-8968fdad7fe4
+
+advance 
+https://medium.com/@nargessmi87/how-to-customize-the-openstreetmap-marker-icon-and-binding-popup-ab2254bddec2
+
+bootstrap 
+https://getbootstrap.com/
+
+bootstrap ready made example (snippets)
+https://bootsnipp.com
+
+cheetsheet
+https://bootstrap-cheatsheet.themeselection.com/
+
+font awasome icons 
+<script src="https://kit.fontawesome.com/20994dd270.js" crossorigin="anonymous"></script>
+

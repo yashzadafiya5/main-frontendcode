@@ -1,0 +1,28 @@
+1) develop web page using javascript to display your name and address using alert dialogbox of javascript.
+
+2) write a program to create function that will return area of triangle using given height and base as input 
+
+
+3) write a program to create function that will return farenheit of given ceilcius 
+
+4) write a program to function that return reverse of given two digit number 
+input : 45 
+output  54
+
+5) write a program to calculate and return bmi of given weight and height (foot,inch) using arrow functions 
+
+6) write a program to calculate and return qube of given number using arrow function 
+7) write a program to calculate and return square root of given number  using arrow functions  
+
+8) write a program to findout volume of room using given length, width, deapth using html, 1st way o handling event and external javascript
+
+9) write a program to findout develop EMI Calculator using html, 1st way o handling event and external javascript
+9) write a program to findout develop SIP Calculator using html, 1st way o handling event and external javascript
+
+10) write a program to create mymath object using first method to create object. this object should have 2 variables. num1 and num2. and it has following methods 
+addition
+substraction
+multiplication
+division
+
+each method will display output inside html tag. 
